@@ -1,8 +1,6 @@
 # Hi there, I'm Daniel Gomez 👋
 
 ### Senior .NET Developer (AI-Enabled) | Backend Architect | Cloud & Enterprise Solutions
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-dgomez.dev-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://dgomez-nine.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/daniel-gomez-18174b61)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adgc0827@gmail.com)
 
